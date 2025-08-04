@@ -14,7 +14,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Env config
-.env
+# .env
 
 # IDE/editor settings
 .vscode/
